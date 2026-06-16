@@ -118,8 +118,8 @@ Built interactive dashboards to visualize:
 
 ## 📸 Project Screenshots
 
-![Dashboard Overview](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis/blob/main/CSB%20-%20Project%20-%20Img-1.png)
-![Dashboard Overview](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis/blob/main/CSB%20-%20Project%20-%20Img-2.png)
+![Dashboard Overview][view project](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis/blob/main/CSB%20-%20Project%20-%20Img-1.png)
+![Dashboard Overview][view project](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis/blob/main/CSB%20-%20Project%20-%20Img-2.png)
 
 ---
 
