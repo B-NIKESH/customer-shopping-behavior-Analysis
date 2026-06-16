@@ -118,11 +118,7 @@ Built interactive dashboards to visualize:
 
 ## 📸 Project Screenshots
 
-(Insert dashboard screenshots here)
-
-Example:
-
-![Dashboard Overview](Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](https://github.com/B-NIKESH/customer-shopping-behavior-Analysis/blob/main/CSB%20-%20Project%20-%20Img-1.png)
 
 ---
 
